@@ -1,0 +1,288 @@
+[[lfr_benchmark]]
+arch = "aarch64"
+git-tree-sha1 = "3d473a162496d94952834f77cc8f1fb4d4fdbe5a"
+os = "macos"
+
+    [[lfr_benchmark.download]]
+    sha256 = "4fe82d2098b7c1014af83d89719adc6ded9f04dee2733b4dba871009754acc0b"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[lfr_benchmark]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "026d756d02835b9a9ab4f54efb2147fae6a4a331"
+libc = "glibc"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "6f1269cf0b87e85cb17b645cbb8c08c0d398b2e5a305b955d3d44fc4df0d8b95"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[lfr_benchmark]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "faea0908e42c6fcb12fe65a50c2ee106d91a3314"
+libc = "glibc"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "f210ab5ed18c6125be9122d5ebef18faa1b26713223974ac347be0bae695cac7"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[lfr_benchmark]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8ece3370c3a7434ae5c34ad5b18afdf4ac1794ca"
+libc = "musl"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "2aefea0f3e4253926a326f5a2b2ffe302b5118ac3fecef6025d3543ade559000"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[lfr_benchmark]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2d46aafda609fa62d7ccf3671e826dd36a55570f"
+libc = "musl"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "ef2f5855d867f57ff33956794017fb6d521b5ee8b278518037e45faeab6bacf8"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[lfr_benchmark]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3102a319807f25095109bbe3de2948f4b1603631"
+libc = "glibc"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "ba255a546e255033272bf15d751805e1d1ddced5a0504d73484c2d6da5bfc863"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[lfr_benchmark]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "24f675ddc78f81748b1de163fca5c41f376120e5"
+libc = "glibc"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "2693f65ab491b931c3eebd4940e7ba8b541f0464402c0ee6b8d6132802d075b4"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[lfr_benchmark]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0608b0b23866a25856d7dca998ea7ef1a38273b5"
+libc = "musl"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "aa9dc2026c5e886fb29eb7d02f59b2af8f51190b752f2e566df392695d89875a"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[lfr_benchmark]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "43df7dd552c5c165e08fdc3a59d772a3189e54af"
+libc = "musl"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "ca7616521e708f523bcdf1c02a4da5b9f5f05bbec90b2831366391d76ee5167d"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[lfr_benchmark]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bafcc3816f105a556ec5a3ed923135112a012165"
+libc = "glibc"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "8ecb2ccac325d74e6c4b3c46420286578e12f074408e79eb4c4ceddecc7dedcb"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[lfr_benchmark]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d4e2c440cc70921cc48419ab7cd72b612077910"
+libc = "glibc"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "835b660af67e89f5927d58ce2d51f9343d661896dccd3713336a73a5c105b72d"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[lfr_benchmark]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7697ee13f1ba6fe367d5d94b034e04ca15112474"
+libc = "musl"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "f44359fe78d99a7dbaa51782fd6ab5c98a90f2ebc90ba691d10b884930012d4e"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[lfr_benchmark]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9429b7ec80a09c76d604130c9db999f3ac23f1c0"
+libc = "musl"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "faae03d89b100c75a65b38598303fc59e27e865dfff8a5adb930d416a8eb53ee"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[lfr_benchmark]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "06e7d27a97640c99663d00d4e461ed85ef0dc9f0"
+libc = "glibc"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "23d96ed64e4cfcfe6d4841e813005452fb3bcac9b8b6fa1437ff089cbda5ac7f"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[lfr_benchmark]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e69ced34587815357fe24ebda0a954fbb0cee510"
+libc = "glibc"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "7229c5647cfbfdf9a7447b5cec90d6b10a144eea7254db2ce00d09aa57988e86"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[lfr_benchmark]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d6eadfbd217e1919260e08f6c1b6a98232c0b071"
+libc = "musl"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "c85d501c08e6307757d58be553b7f159d9e4b306d0134d69c0ca66c0326d10a8"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.i686-linux-musl-cxx03.tar.gz"
+[[lfr_benchmark]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "731c5f49d911cccba46c3d572f353a2b7df3c68f"
+libc = "musl"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "740b53936d20a0d41a6f15980c43fceb07dde0f567893588ecf89eccd5f26c6a"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.i686-linux-musl-cxx11.tar.gz"
+[[lfr_benchmark]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "af0786ae26faadb6373ad604263ae88a7f5ad1c1"
+os = "windows"
+
+    [[lfr_benchmark.download]]
+    sha256 = "d2c2ff543b394f69d6e75d6db5bbd90ff18d32a069261724db2e7b87f4f99308"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[lfr_benchmark]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eca8eab7200c5e2dda88c55376b95d14de9003ae"
+os = "windows"
+
+    [[lfr_benchmark.download]]
+    sha256 = "afb4056befba6c5be6eddffd8b4963a9fa29df6899a7ac971d8685113c34c9b4"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[lfr_benchmark]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f7fb515703fbb18cb93cddc8add3869624db9aca"
+libc = "glibc"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "1c10a17814d3e41c964c15e1e4be3caedfdbee520128a0dc6692d543260eefb4"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[lfr_benchmark]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c88a4d29877dc10b10c8d9301926c2f6cd48c012"
+libc = "glibc"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "a36ad4fbc237b55ca21ba57a957a7ecb5929239b4bc243fccaa101f1eaab377c"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[lfr_benchmark]]
+arch = "x86_64"
+git-tree-sha1 = "144bd93efd2d952b83c4b9f77b2bf7102552c9d3"
+os = "macos"
+
+    [[lfr_benchmark.download]]
+    sha256 = "cfc55d7fd7b424a2ce60128fad88339695497d3c4b5c127fb5afd78b0a7e1b4d"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[lfr_benchmark]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "02d09114951ff3ce8b00da3f5f69c08c29b6b4aa"
+libc = "glibc"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "d93e137be1cbf04a975527f416476810785b2e14351f940ef1e78cf208087ef3"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[lfr_benchmark]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "436127f79f7a7a2e222613030c637f709450a578"
+libc = "glibc"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "719630b9e833e552b07e07dd0cdeeccefb4ad979bc59c675b8ef8ebfb638a33a"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[lfr_benchmark]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "380465af2564d9e8d1cb10a2ecba5177d20bdfef"
+libc = "musl"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "1fde7e7c3c09916ef01b2b8e053e3ccdfc913a90dc484952814f2edbf890d2e3"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[lfr_benchmark]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8e869ffd439519fc0f8ffd28d522242a46bdfc14"
+libc = "musl"
+os = "linux"
+
+    [[lfr_benchmark.download]]
+    sha256 = "7e210abc428bc3fa6712ee45feb7e3f79132ddda81fee49e4883032e30b9dfc9"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[lfr_benchmark]]
+arch = "x86_64"
+git-tree-sha1 = "899bb2912a60d3b70aff1a5c1b1c2a3b579af338"
+os = "freebsd"
+
+    [[lfr_benchmark.download]]
+    sha256 = "4627169eca87b3d7eb4b9d5657ae8c8d125ba819d0cfe2f4a49ab570501178bc"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[lfr_benchmark]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48f653ae65720a4ce4907c8d74fd40e0282e7fdf"
+os = "windows"
+
+    [[lfr_benchmark.download]]
+    sha256 = "a712c7f64359b8bfd3cd27e209817f759379f55dd7fcc4d3dc2be5b1b6a4a4e0"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[lfr_benchmark]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "25f34ac648ed49a58cff929417d57937a83b8e77"
+os = "windows"
+
+    [[lfr_benchmark.download]]
+    sha256 = "4b03f3c70b7e561346aa45d1bbaa3b6d8fe95554496e5ff8d2859a28288b76b6"
+    url = "https://github.com/JuliaBinaryWrappers/lfr_benchmark_jll.jl/releases/download/lfr_benchmark-v1.0.0+0/lfr_benchmark.v1.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
